@@ -1,2 +1,2 @@
 # HarmonyNext--Android
-玩安卓Harmony项目
+玩安卓鸿蒙项目
